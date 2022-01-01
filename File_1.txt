@@ -1,7 +1,2 @@
-123456 789.
-Add line >>File_1.txt
-
-q
-Q
-echo Add line
-Add line
+123456
+commit test
