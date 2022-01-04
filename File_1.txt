@@ -1,3 +1,5 @@
 123456
-commit testnew branch line
+commit test
+new branch line
 new branch line 2
+new branch line 3
